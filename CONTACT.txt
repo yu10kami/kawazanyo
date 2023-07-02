@@ -1,0 +1,8 @@
+Contact
+=======
+If you have any questions or comments about seaborn-analyzer,
+please feel free to contact me via
+eMail: yutokamiwaki@gmail.com
+or Twitter: https://twitter.com/yu10_kami
+or LinkedIn: https://www.linkedin.com/in/yuto-kamiwaki/
+This project is hosted at https://github.com/yu10kami/kawazanyo
